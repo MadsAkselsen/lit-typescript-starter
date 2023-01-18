@@ -1,5 +1,5 @@
 {
-  "name": "typescript-rollup",
+  "name": "lit-typescript-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,5 +28,9 @@
     "rimraf": "^3.0.2",
     "rollup": "^2.34.2",
     "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "lit-element": "^3.2.2",
+    "lit-html": "^2.6.1"
   }
 }
